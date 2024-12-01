@@ -6,4 +6,5 @@ It also generates a view where season is the input and collective data grouped b
 Data is stored in h2 database. an initial data loading script is also present
 
 Application default port: 8080
+<br>
 Path for accessing swagger-ui = /v1/swagger-ui/index.html
